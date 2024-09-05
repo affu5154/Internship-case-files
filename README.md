@@ -1,2 +1,3 @@
-# Visual-case-files
+# Internship case files
+
 Python notebooks for each geometry case study
